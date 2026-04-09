@@ -41,6 +41,7 @@ The system adjusts the fan operation according to temperature levels, helping in
 
 ## 🔌 Circuit Diagram
 <img width="685" height="576" alt="image" src="https://github.com/user-attachments/assets/2e8cc5f2-e825-43db-9ecc-190d3f4d037f" />
+
 Downloaded from https://wokwi.com/
 
 Simulate this project on https://wokwi.com
